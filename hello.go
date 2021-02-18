@@ -8,5 +8,6 @@ func main() {
 	fmt.Print("Enter your name : ")
 	fmt.Scan(&fullname)
 	fmt.Println()
+	fmt.Println()
 
 }
